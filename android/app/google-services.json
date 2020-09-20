@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "822085242688",
+    "firebase_url": "https://login-8518e.firebaseio.com",
+    "project_id": "login-8518e",
+    "storage_bucket": "login-8518e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822085242688:android:36d133dc8cff26550174a5",
+        "android_client_info": {
+          "package_name": "br.com.felipe.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822085242688-m74ceoaan12kiudhamb9us7nmlc383m4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.felipe.login",
+            "certificate_hash": "6c32b1f5a7abebe55ed150717ffc216e1acba777"
+          }
+        },
+        {
+          "client_id": "822085242688-9j7hslecasarpemfoi3spo8qjqmhbi6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUMgdOgc8ES1aDKU6zx0YJa77ULJ63kkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822085242688-9j7hslecasarpemfoi3spo8qjqmhbi6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
